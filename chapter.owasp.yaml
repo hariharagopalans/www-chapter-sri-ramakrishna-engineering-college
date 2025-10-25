@@ -1,0 +1,23 @@
+leaders:
+  - name: Harihara Gopalan S
+    email: harihara.gopalans@owasp.org
+  - name: Nithish P
+    email: nithish.p@owasp.org
+    github: h-fantome
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Coimbatore
+  latitude: 11.1020978
+  longitude: 76.96540040946415
+name: OWASP Sri Ramakrishna Engineering College
+repositories:
+  - name: www-chapter-sri-ramakrishna-engineering-college
+    url: https://github.com/OWASP/www-chapter-sri-ramakrishna-engineering-college
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sri-ramakrishna-engineering-college
