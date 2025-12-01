@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 <p align="center">
-  <img src="assets/images/srec.jpg" height = "290" width="320" style="margin: 35px; margin-top: 40px; margin-bottom: 50px;"/>
+  <img src="assets/images/SREC.jpg" height = "290" width="320" style="margin: 35px; margin-top: 40px; margin-bottom: 50px;"/>
   <img src="assets/images/OWASP Circle logo.png" height = "290" width="290" style="margin: 35px; margin-top: 20px; margin-bottom: 20px;"/>
 </p>
 
